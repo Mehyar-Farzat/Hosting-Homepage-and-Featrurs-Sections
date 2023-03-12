@@ -1,0 +1,30 @@
+.container{
+    max-width: 1200px;
+}
+
+
+.nav-item{
+    padding: 0px 25px;
+    
+}
+.nav-link{
+    font-size: 24px;
+    width: 700;
+    color: white;
+}
+
+.fixed-top{
+    overflow: hidden;
+    position: fixed;
+    background-color: transparent
+    transition: 1.5s ease-in;
+    
+    }
+
+   .fixed-top.scrolled{
+
+    background-color: gray;
+   }
+
+
+    }
