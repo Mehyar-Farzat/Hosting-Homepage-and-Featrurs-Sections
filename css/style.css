@@ -13,18 +13,75 @@
     color: white;
 }
 
-.fixed-top{
+.mynavbar{
     overflow: hidden;
-    position: fixed;
+    position: absolute;
     background-color: transparent
-    transition: 1.5s ease-in;
+    }
+
+    .nav-link:hover{
+
+        color: #0089C2;
+    }
+
+    .h2-title{
+        position: absolute;top: 305px; left: 160px;
+        font-size: 50px;
+        font-weight: 700;
+        text-align: center ;
+        color: white;
+    }
+     .p-off{
+        color: white;
+        position: absolute;top: 200px; left: 234px;
+        font-size: 24px;
+        font-weight: 400;
+        background-color: #1E1D22;
+        padding: 10px 10px;
+        border-radius: 15px;
+        
+     }
+   
+     .p-off-color{
+        
+        color: #0089C2;
+     
+     }
+
+     .p-subtitle{
+        font-size: 16px;
+        font-weight: 400;
+        position: absolute;top: 540px; left: 154px;
+        color: white;
+        line-height: 24px;
+     }
+
+     .h6-title{
+        font-size: 14px;
+        font-weight: 400;
+        color: white;
+        position: absolute;top: 595px; left: 154px;
+     }
+
+     .h3-title{
+        font-size: 25px;
+        font-weight: 600;
+        color: white;
+        position: absolute;top: 620px; left: 154px;
+     }
+
+     .btn-banner{
+        position: absolute;top: 685px; left: 149px;
+        background-color: #BC2B34;
+        color: white;
+        padding: 10px 20px;
+        border-radius: 15px;
+        font-size: 20px;
+     }
+
+     .bannaer-title{
+
+        text-align: center;
+     }
+
     
-    }
-
-   .fixed-top.scrolled{
-
-    background-color: gray;
-   }
-
-
-    }
