@@ -84,4 +84,49 @@
         text-align: center;
      }
 
+     .img-customer{
+        width: 50%;
+  height: 50%;
+     }
+
+     .img-features{
+        width: 100%;
+        height: auto;
+     }
+    
+      h1{
+        text-align: center;
+        color: #1E1D22;
+        margin-top: 30px;
+        padding-top: 30px;
+      }
+
+      .h1-feature{
+        font-size: 24px;
+        font-weight: 900;
+        color: black;
+        padding-top: 10px;
+      }
+     
+      .p-feature{
+        font-size: 18px;
+        font-weight: 400;
+        color: #74818E;
+        padding-top: 10px;
+        
+      }
+      .img-features{
+        margin-left: -85px;
+        margin-top: 30px;
+      }
+      .icon-features{
+
+      }
+
+
+
+
+     
+      
+
     
