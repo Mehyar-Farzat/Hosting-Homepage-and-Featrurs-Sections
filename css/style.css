@@ -119,10 +119,52 @@
         margin-left: -85px;
         margin-top: 30px;
       }
-      .icon-features{
+      
 
-      }
+.h2-hosting{
+   color: #0589c2;
+}
 
+.h2-heading-hosting{
+   color: black;
+   
+   font-weight: 900;
+}
+
+.p-hosting{
+   font-size: 18px;
+        font-weight: 400;
+        color: #74818E;
+        padding-top: 10px;
+}
+
+.list{
+
+   list-style-type: none;
+}
+
+.h3-hosting{
+   color: #0589c2;
+}
+
+.order-box{
+   border: solid 2px black;
+   text-align: center;
+   border-radius: 10px;
+}
+      
+.list-bg{
+   background-image: url(../img/blob.png);
+   background-repeat: no-repeat;
+   background-size: 200px;
+   margin-left: 50px;
+}
+
+.buy-btn{
+
+  
+
+}
 
 
 
